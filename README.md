@@ -133,6 +133,20 @@ playlists/
 
 ---
 
+### m3u setup
+
+On Hiby non-Android devices:
+- Create a directory `playlist_data` and place m3u files inside
+- On the device in Music > Folder Playlist icon > Playlists, select option "Load playlist" (the operation takes time depending on the size of the files)
+
+On Shanling non-Android devices:
+- Create a directory `_explaylist_data` and place m3u files inside
+- On the device in Playlist click on "Import Playlist" button (the operation takes time depending on the size of the files)
+
+TODO on hibyMusic and Poweramp on Android devices.
+
+---
+
 ### License
 
 MIT License. See [LICENSE](LICENSE).
